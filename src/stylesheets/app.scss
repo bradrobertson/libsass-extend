@@ -1,0 +1,9 @@
+@import 'util/extensions';
+
+.my-nav {
+  @extend .menu;
+}
+
+.something {
+  @extend .another;
+}

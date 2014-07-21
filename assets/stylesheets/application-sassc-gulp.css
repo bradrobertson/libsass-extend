@@ -1,0 +1,11 @@
+.menu, .my-nav {
+  display: inline-block; }
+
+.menu ul, .menu .my-nav {
+  list-style: none; }
+
+.another, .something {
+  display: block; }
+  .another p, .another .something {
+    padding: 10px; }
+

@@ -1,0 +1,12 @@
+.menu, .my-nav {
+  display: inline-block; }
+
+.menu ul {
+  list-style: none; }
+
+.another, .something {
+  display: block; }
+  .another p {
+    padding: 10px; }
+
+
